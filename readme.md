@@ -15,7 +15,7 @@ https://api.unsplash.com/search/photos?page=${page}&query=${keyword}&client_id=$
 
 ## Features :-
 - Responsive for different devices.
-- Give radndom pictures.
+- Give random pictures.
 - Search any number of pictures.
 
 ## Demo Image :-
